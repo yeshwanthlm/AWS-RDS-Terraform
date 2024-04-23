@@ -1,5 +1,5 @@
-# AWS-VPC-Landing-Zone-Terraform
-AWS VPC Landing Zone Terraform Repo
+# AWS-RDS-Terraform
+AWS RDS Instance with read-replica using Terraform
 
 ### Architecture:
 
